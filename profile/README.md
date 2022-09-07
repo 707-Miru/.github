@@ -1,10 +1,4 @@
-<p align="center" style="width: 40%">
-  <br>
-  <img src="https://user-images.githubusercontent.com/97646070/186857980-51b874f0-d3e1-4ff7-838c-438066840602.png">
-  <br>
-</p>
-
-
+![오늘의 모네](https://user-images.githubusercontent.com/30463982/188766129-8a7bc2e6-1732-4880-b567-7a98dfe5858a.png)
 
 ## 목차
 
@@ -154,25 +148,25 @@ mysql -u root -p
 
 
 ## 시연 시나리오
-![프로젝트 키워드](README.assets/keyword.png)
+![keyword](https://user-images.githubusercontent.com/30463982/188766128-a876e94b-4fa1-4af0-8bb6-56aee88f90eb.png)
 
 ### I. MainView
 
 #### 	I - I. 디자인
 
-![1.1 MainView - 디자인](README.assets/1.1 MainView - 디자인.gif)
+![1 1 MainView - 디자인](https://user-images.githubusercontent.com/30463982/188766138-8478c6d7-aabd-4125-8063-aa239b2fd14b.gif)
 
 #### 	I - II. 로고와 홈 버튼
 
-![1.2 MainView - 로고와 홈 버튼](README.assets/1.2 MainView - 로고와 홈 버튼.gif)
+![1 2 MainView - 로고와 홈 버튼](https://user-images.githubusercontent.com/30463982/188766141-ab9006b8-703b-444f-8d47-94a71391323c.gif)
 
 #### 	I - III. 로그아웃, 회원가입, 로그인
 
-#### ![1.3 MainView - 로그아웃, 회원가입, 로그인](README.assets/1.3 MainView - 로그아웃, 회원가입, 로그인.gif)
+![1 3 MainView - 로그아웃, 회원가입, 로그인](https://user-images.githubusercontent.com/30463982/188766145-f379647c-afda-4237-b112-c648d435f07d.gif)
 
 #### 	I - IV. 비밀번호 재설정 (미완성)
 
-![1.4 비밀번호 재설정 미구현](README.assets/1.4 비밀번호 재설정 미구현.gif)
+![1 4 비밀번호 재설정 미구현](https://user-images.githubusercontent.com/30463982/188766147-6bbe5fbd-aaa5-4329-8fed-f4f1f065310f.gif)
 
 
 
@@ -180,11 +174,11 @@ mysql -u root -p
 
 #### 	II - I. 사진게시판 버튼별 기능
 
-![2.2 사진게시판 버튼 기능](README.assets/2.2 사진게시판 버튼 기능.gif)
+![2 2 사진게시판 버튼 기능](https://user-images.githubusercontent.com/30463982/188766148-01f34138-e411-4bde-81f3-7b382cb233c8.gif)
 
 #### 	II - II. 사진게시판 인피니티 스크롤 기능
 
-![2.3 사진게시판 인피니티 스크롤](README.assets/2.3 사진게시판 인피니티 스크롤.gif)
+![2 3 사진게시판 인피니티 스크롤](https://user-images.githubusercontent.com/30463982/188766150-82efe299-2ee6-4b42-9809-a623f41e6032.gif)
 
 
 
@@ -192,7 +186,7 @@ mysql -u root -p
 
 #### 	III - I. 나만의 앨범 버튼별 기능 (미완성)
 
-![3.1 나만의 앨범 버튼 기능](README.assets/3.1 나만의 앨범 버튼 기능.gif)
+![3 1 나만의 앨범 버튼 기능](https://user-images.githubusercontent.com/30463982/188766153-7cbcdee6-a259-4605-8a58-174627c1596a.gif)
 
 
 
@@ -200,17 +194,17 @@ mysql -u root -p
 
 #### 	IV - I. 핸드트래킹 (2배속)
 
-![핸드트래킹 두배속 II](README.assets/핸드트래킹 두배속 II.gif)
+![핸드트래킹 두배속 II](https://user-images.githubusercontent.com/30463982/188766130-5cde4529-ac4b-415c-ae16-7fab2fe89bea.gif)
 
 #### 	IV - II. 핸드트래킹 라즈베리파이 연결 (2배속)
 
-![핸드트래킹 두배속](README.assets/핸드트래킹 두배속.gif)
+![핸드트래킹 두배속](https://user-images.githubusercontent.com/30463982/188766132-48fd3c90-4f02-400f-9d3a-a09048845203.gif)
 
 #### 	IV - III. 스타일학습
 
-![스타일 학습 및 변환 예시1](README.assets/4.3 스타일학습1.png)
-![스타일 학습 및 변환 예시2](README.assets/4.3 스타일학습2.png)
-![스타일 학습 및 변환 예시3](README.assets/4.3 스타일학습3.png)
+![4 3 스타일학습1](https://user-images.githubusercontent.com/30463982/188766154-022ca792-dad5-4c0d-b816-002c075298b9.png)
+![4 3 스타일학습2](https://user-images.githubusercontent.com/30463982/188766156-71fdbb96-427f-4278-9fb8-dd0f5963ac02.png)
+![4 3 스타일학습3](https://user-images.githubusercontent.com/30463982/188766123-f117a9e1-14e1-422f-9935-f72a10b75aca.png)
 
 <br>
 
